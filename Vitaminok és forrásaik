@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VITAMINOK</title>
+  <style type="text/css"></style>
+    <section>
+           <body style="background-color:chartreuse">
+        <center><h1 style="font-family:Arial;">VITAMINOK</h1></center>
+                  <center><th><img src="vitamin.png" alt="viamin" width="250px" height="200px"></th></center>
+        
+        <center><h3>A-vitamin</h3></center>
+       
+        <center><th><u>Funkcioja:</u> novekedes, szurkuleti latas, a szaruhartya egeszsege, fertozessel szembeni ellenallas. <u>Hianya</u> fejlodesi zavarokat, farkasvaksagot, a bor szarazsagat okozza. 
+            <u>Forrasai:</u> tejtermekek, halmajolajak, tojassargaja. A sargarepaban es zoldsegfelekben talalhato <a href="https://hu.wikipedia.org/wiki/Karotinok">karotin</a>t a szervezet A-vitaminna alakitja. </th></center><p></p><center><img src="avitamin.png" alt="viamin" width="150px" height="100px"></center>
+           
+            <center><h3><th>B1-vitamin</th></h3></center>
+            
+            <center><th><u>Funkcioja:</u> szenhidrat anyagcsere: az idegrendszer mukodese. <u>Hianya</u> vizenyosodest vagy vegzetes fogyassal jaro <a href="https://hu.wikipedia.org/wiki/Beri-beri">beriberit</a> okoz. 
+                <u> Forrasai:</u> eleszto, tojassargaja, maj, buzacsira, borso, bab. </th></center><p></p> <center><img src="b1vitamin.png" alt="viamin" width="150px" height="100px"></center>
+               
+                <center><h3><th>B2-vitamin</th></h3></center>
+               
+                <center><th><u>Funkcioja:</u> szovetlegzes. <u>Hianya</u> a nyelv es az ajak gyulladasat okozza. 
+                    <u>Forrasai:</u> eleszto, eleszto- es huskivonatok, tej, maj, sajt, tojas, zoldsegfelek.</th></center><center><p></p><img src="b2vitamin.png" alt="viamin" width="150px" height="100px"></center>
+
+                    <center><h3><th>B12-vitamin</th></h3></center>
+                   
+                    <center> <th><u>Funkcioja:</u> verkepzodes. <u>Hianya</u> veszes verzekeny seget okoz. 
+                    <u>Forrasai:</u> eleszto, hus, maj, vese, tej, sajt, tojas, zoldsegfelek. </th></center><p></p><center><img src="b12vitamin.png" alt="viamin" width="150px" height="100px"></center>
+                    
+                    <center><h3><th>C-vitamin</th></h3></center>
+                    
+                    <center><th><u>Funkcioja:</u> energiatermeles, anyagcserefolyamatok, fertozessel szembeni ellenallas. <u>Hianya</u> <a href="https://hu.wikipedia.org/wiki/Skorbut">skorbutot</a> , verzekenyseget, faradekonysagot okoz. 
+                        <u> Forrasai:</u> paprika, citrom, zoldsegek, gyumolcsok. 
+                         
+                    </th></center><p></p><center><img src="cvitamin.png" alt="viamin" width="150px" height="100px"></center>
+
+                    <center><h3><th>D-vitamin</th></h3></center>
+
+                    <center><th><u>Funkcioja:</u> csontok egeszseges fejlodese. <u>Hianya</u> a csontok gorbuleset, torekenyseget, csontlegyulest okoz. 
+                        <u>Forrasai:</u> vaj, halmajolaj. A novenyi olajokban talalhato eloanyagot a szervezet alakitja D-vitaminna  napsugarzas hatasara.</th></center><p></p><center><img src="dvitamin.png" alt="viamin" width="150px" height="100px"></center>
+
+                    <center><h3><th>E-vitamin</th></h3></center>
+
+                    <center><th><u>Funkcioja:</u> az idegrendszer, az izomzat es a here normalis mukodesehez illetve a terhesseg ki hordasahoz fontos. <u>Hianya</u> nem jellemzo. 
+                        <u>Forrasai:</u> novenyi magvak es olajok, salatak, zoldfozelekek, tej, vaj.</th></center><p></p><center><img src="evitamin.png" alt="viamin" width="150px" height="100px"></center>
+
+                    <center><h3><th>K-vitamin</th></h3></center>
+
+                    <center><th><u>Funkcioja:</u> megfelelo majmukodes. <u>Hianya</u> nem jellemzo. 
+                        <u>Forrasai:</u> belbakteriumok termelik, kulso bevitele altalaban nem szukseges.</th></center><p></p><center><img src="kvitamin.png" alt="viamin" width="150px" height="100px"></center>
+                        <center><h1 style="font-family:Arial;">elerhetoseg:ocsaikristofbenedek@gmail.com</h1></center>
+        
+                       
+                    </div>
+    </section>
+
+</head>
+</body>
+</html> 
