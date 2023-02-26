@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VITAMINOK</title>
+  <style type="text/css"></style>
+    <section>
+           <body style="background-color:chartreuse">
+        <center><h1 style="font-family:Arial;">VITAMINOK</h1></center>
+        <th><img src="vitamin.png" alt="viamin" width="250px" height="200px"></th>
+        
+        <center><h3>A-vitamin</h3></center>
+       
+        <center><th>Funkcioja: novekedes, szurkuleti latas, a szaruhartya egeszsege, fertozessel szembeni ellenallas. Hianya fejlodesi zavarokat, farkasvaksagot, a bor szarazsagat okozza. 
+            Forrasai: tejtermekek, halmajolajak, tojassargaja. A sargarepaban es zoldsegfelekben talalhato karotint  a szervezet A-vitaminna alakitja. </th></center> <center><img src="avitamin.png" alt="viamin" width="150px" height="100px"></center>
+           
+            <center><h3><th>B1-vitamin</th></h3></center>
+            
+            <center><th>Funkcioja: szenhidrat anyagcsere: az idegrendszer mukodese. Hianya vizenyosodest vagy vegzetes fogyassal jaro beriberit okoz. 
+                Forrasai: eleszto, tojassargaja, maj, buzacsira, borso, bab. </th></center> <center><img src="b1vitamin.png" alt="viamin" width="150px" height="100px"></center>
+               
+                <center><h3><th>B2-vitamin</th></h3></center>
+               
+                <center><th>Funkcioja: szovetlegzes. Hianya a nyelv es az ajak gyulladasat okozza. 
+                    Forrasai: eleszto, eleszto- es huskivonatok, tej, maj, sajt, tojas, zoldsegfelek.</th></center><center><img src="b2vitamin.png" alt="viamin" width="150px" height="100px"></center>
 
+                    <center><h3><th>B12-vitamin</th></h3></center>
+                   
+                    <center> <th>Funkcioja: verkepzodes. Hianya veszes verzekeny seget okoz. 
+                    Forrasai: eleszto, hus, maj, vese, tej, sajt, tojas, zoldsegfelek. </th></center><center><img src="b12vitamin.png" alt="viamin" width="150px" height="100px"></center>
+                    
+                    <center><h3><th>C-vitamin</th></h3></center>
+                    
+                    <center><th>Funkcioja: az idegrendszer, az izomzat es a here normalis mukodesehez illetve a terhesseg ki hordasahoz fontos. Hianya nem jellemzo. Forrasai: novenyi magvak es olajok, salatak, zoldfozelekek, tej, vaj. 
+                    </th></center><center><img src="cvitamin.png" alt="viamin" width="150px" height="100px"></center>
+
+                    <center><h3><th>D-vitamin</th></h3></center>
+
+                    <center><th>Funkcioja: csontok egeszseges fejlodese. Hianya a csontok gorbuleset, torekenyseget, csontlegyulest okoz. 
+                        Forrasai: vaj, halmajolaj. A novenyi olajokban talalhato eloanyagot a szervezet alakitja D-vitaminna  napsugarzas hatasara.</th></center><center><img src="dvitamin.png" alt="viamin" width="150px" height="100px"></center>
+
+                    <center><h3><th>E-vitamin</th></h3></center>
+
+                    <center><th>Funkcioja: az idegrendszer, az izomzat es a here normalis mukodesehez illetve a terhesseg ki hordasahoz fontos. Hianya nem jellemzo. 
+                        Forrasai: novenyi magvak es olajok, salatak, zoldfozelekek, tej, vaj.</th></center><center><img src="evitamin.png" alt="viamin" width="150px" height="100px"></center>
+
+                    <center><h3><th>K-vitamin</th></h3></center>
+
+                    <center><th>Funkcioja: megfelelo majmukodes.  Hianya nem jellemzo. 
+                        Forrasai: belbakteriumok termelik, kulso bevitele altalaban nem szukseges.</th></center><center><img src="kvitamin.png" alt="viamin" width="150px" height="100px"></center>
+
+        </div>
+    </section>
+
+</head>
+</body>
+</html>
